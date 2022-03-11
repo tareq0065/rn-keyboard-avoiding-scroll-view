@@ -23,7 +23,10 @@
   "react-native": "dist/index.js",
   "types": "dist/index.d.ts",
   "sideEffects": false,
-  "repository": "https://github.com/tareq0065/rn-keyboard-avoiding-scroll-view.git",
+  "repository": {
+    "url": "https://github.com/tareq0065/rn-keyboard-avoiding-scroll-view.git",
+    "type": "git"
+  },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
