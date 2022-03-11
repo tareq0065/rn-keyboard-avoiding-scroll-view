@@ -13,7 +13,7 @@ React Native ScrollView extension that prevents inputs from being covered by the
 
 ## Getting started
 
-`$ npm install react-native-keyboard-avoiding-scroll-view --save`
+`$ npm install @tareq0065/rn-keyboard-avoiding-scroll-view --save`
 
 ## Usage
 
