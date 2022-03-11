@@ -10,9 +10,9 @@
     "scrollview",
     "alka"
   ],
-  "homepage": "https://github.com/tareq0065/react-native-keyboard-avoiding-scroll-view#readme",
+  "homepage": "https://github.com/tareq0065/rn-keyboard-avoiding-scroll-view#readme",
   "bugs": {
-    "url": "https://github.com/tareq0065/react-native-keyboard-avoiding-scroll-view/issues"
+    "url": "https://github.com/tareq0065/rn-keyboard-avoiding-scroll-vieww/issues"
   },
   "license": "MIT",
   "author": "Tareq Aziz <tareqaziz0065@gmail.com>",
@@ -25,7 +25,7 @@
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/tareq0065/react-native-keyboard-avoiding-scroll-view.git"
+    "url": "https://github.com/tareq0065/rn-keyboard-avoiding-scroll-view.git"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
