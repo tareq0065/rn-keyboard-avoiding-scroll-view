@@ -1,4 +1,4 @@
-# react-native-keyboard-avoiding-scroll-view
+# @tareq0065/rn-keyboard-avoiding-scroll-view
 
 [![npm version](https://img.shields.io/npm/v/react-native-keyboard-avoiding-scroll-view.svg)](https://www.npmjs.org/package/react-native-keyboard-avoiding-scroll-view)
 [![CircleCI Status](https://img.shields.io/circleci/project/github/alkafinance/react-native-keyboard-avoiding-scroll-view/master.svg)](https://circleci.com/gh/alkafinance/workflows/react-native-keyboard-avoiding-scroll-view/tree/master)
